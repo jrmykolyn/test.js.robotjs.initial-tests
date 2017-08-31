@@ -1,0 +1,16 @@
+{
+  "name": "test.js.robot.js.initial-tests",
+  "version": "0.0.0",
+  "description": "A collection of tests/examples using the RobotJS task automation library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse R Mykolyn",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "robotjs": "^0.4.7",
+    "selenium-webdriver": "^3.5.0"
+  }
+}
