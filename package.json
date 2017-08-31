@@ -1,5 +1,5 @@
 {
-  "name": "test.js.robot.js.initial-tests",
+  "name": "test.js.robotjs.initial-tests",
   "version": "0.0.0",
   "description": "A collection of tests/examples using the RobotJS task automation library.",
   "main": "index.js",
